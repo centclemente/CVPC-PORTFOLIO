@@ -82,7 +82,7 @@ const DATA = {
       summary:
         "A forecasting web app that lets users predict sales and inventory using time series forecasting.",
       tags: ["Python", "React", "NodeJS", "FastAPI", "PostgreSQL"],
-      live: "#",
+      live: "https://jamstartcoffee.vercel.app/login",
       code: "https://github.com/creepeepatsa/jamstartcoffee",
     },
   ],
